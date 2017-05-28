@@ -7,7 +7,6 @@
 	background-image: url(../images/the-flatiron-building.png);
 	background-size: 100% 100%;
 	background-position: center;
-	display: block;
 }
 
 .banner h1 {
@@ -42,7 +41,7 @@
 	font-size: 14px;
 }
 
-footer {
+.footer {
 	font-family: Helvetica;
 	color: white;
 	background-color: dimgray;
